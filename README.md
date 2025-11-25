@@ -55,9 +55,9 @@ I make spooky-cute things in many languages
 ---
 
 ## 🧭 Stats 
-![stats](https://github-readme-stats.vercel.app/api?username=philou404&show_icons=true&theme=midnight-purple)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=philou404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=philou404&theme=gruvbox&border_radius=4.5) -->
+![stats](https://github-readme-stats.vercel.app/api?username=supraerror&show_icons=true&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=supraerror&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=supraerror&theme=gruvbox&border_radius=4.5) -->
 
 ## cats
 ```
