@@ -51,6 +51,7 @@ I make spooky-cute things in many languages
 [![Python](https://img.shields.io/badge/Python-%233D0C02?style=for-the-badge&logo=python&logoColor=red)](#)
 [![Rust](https://img.shields.io/badge/Rust-%234B0A1D?style=for-the-badge&logo=rust&logoColor=red)](#)
 [![Janet](https://img.shields.io/badge/Janet-%235A1A5E?style=for-the-badge&logo=ghost&logoColor=red)](#)
+[![Gleam](https://img.shields.io/badge/gleam-%235A1A5E?style=for-the-badge&logo=gleam&logoColor=red)](#)
 
 ---
 
