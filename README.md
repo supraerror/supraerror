@@ -11,7 +11,7 @@ I make spooky-cute things in many languages
 ## ✨ About Me
 
 - 🎓 Computer Science Student
-- 💬 Coding in **HTML • CSS • PHP • JavaScript • C# • C • Rust • Python • Java • Janet • Kotlin**
+- 💬 Coding in **HTML • CSS • PHP • JavaScript • C# • C • Rust • Python • Java • Janet • Kotlin • JS/TS • Gleam**
 - 🌱 Currently exploring how to fix some languages
 - 🩸 Love gothic and kawaii stuff
 
@@ -44,6 +44,7 @@ I make spooky-cute things in many languages
 [![CSS3](https://img.shields.io/badge/CSS3-%234B0A1D?style=for-the-badge&logo=css3&logoColor=red)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-%232E1A47?style=for-the-badge&logo=html5&logoColor=red)](#)
 [![JavaScript](https://img.shields.io/badge/JS-%233D0C02?style=for-the-badge&logo=javascript&logoColor=red)](#)
+[![TypeScript](https://img.shields.io/badge/TS-%233D0C02?style=for-the-badge&logo=typescript&logoColor=red)](#)
 [![JSON](https://img.shields.io/badge/JSON-%231B1B1B?style=for-the-badge&logo=json&logoColor=red)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%23420C41?style=for-the-badge&logo=kotlin&logoColor=red)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%231B1B1B?style=for-the-badge&logo=markdown&logoColor=red)](#)
